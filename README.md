@@ -1,4 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen Ha Viet Anh ==========================================================================================================================================  Web Developer -------------  I have been learned to code from 2022. I started with Java.  * 🌍  I'm based in Ho Chi Minh City * 🖥️  See my portfolio at [My Portfolio](http://anhnhv.vercel.app) * ✉️  You can contact me at [nguyenhavietanh2503@gmail.com](mailto:nguyenhavietanh2503@gmail.com) * 🧠  I'm learning Spring Boot, ReactJS, NextJS, ReactNative
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Nguyen Ha Viet Anh 
+==========================================================================================================================================  
+Web Developer 
+-------------  
+I have been learned to code from 2022. I started with Java.   
+* 🌍  I'm based in Ho Chi Minh City 
+* 🖥️  See my portfolio at [My Portfolio](http://anhnhv.vercel.app) 
+* ✉️  You can contact me at [nguyenhavietanh2503@gmail.com](mailto:nguyenhavietanh2503@gmail.com) 
+* 🧠  I'm learning Spring Boot, ReactJS, NextJS, ReactNative
 
 <a href="https://www.github.com/anhnhv2503" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/anhnhv2503?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
